@@ -1,0 +1,5 @@
+[
+    {"nombre": "Juan", "apellido": "Perez", "edad": 30, "comuna": "Santiago"},
+    {"nombre": "Ana", "apellido": "Gomez", "edad": 25, "comuna": "Quilicura"},
+    {"nombre": "Luis", "apellido": "Martinez", "edad": 35, "comuna": "Renca"}
+]
